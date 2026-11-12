@@ -59,7 +59,7 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    if: github.repository == 'oracle/graal'
+    if: github.repository == 'sajuptpm/graal1'
 
     steps:
     - name: Checkout oracle/graal
